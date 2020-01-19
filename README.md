@@ -1,6 +1,6 @@
 # kaiqingy_repository
 
-Hello everyone, this is my public portfolio for Telling Stories with Data course for Spring 2020! On live site is here: https://kaiqingy.github.io/DataVisualGuru/
+Hello everyone, this is my public portfolio for Telling Stories with Data course for Spring 2020! On live site is here:  https://kaiqingy.github.io/kaiqingy_repository/
 
 # Tell us about yourself
 
