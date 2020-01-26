@@ -14,5 +14,5 @@ Github is new world to me, and I found it magical. It's a great platform to disp
 # Portfolios
 
 ## Previous Work
-You can review previous works here:(/dataviz2.md)
+[You can review previous works here:](/dataviz2.md)
 <iframe title="The performance of HIV testing and prevention" aria-label="Grouped Column Chart" id="datawrapper-chart-pMmQZ" src="//datawrapper.dwcdn.net/pMmQZ/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="416"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();</script>
