@@ -11,8 +11,9 @@ My name is Kaiqing (she/her/hers), I'm the second-year public policy management 
 
 Github is new world to me, and I found it magical. It's a great platform to display past work and track my progress. I used Power BI and Tableau in my previous client project but never have a chance to evaluate it except for my clients' feedback. This course offere me a brand new viewpoint to critique the data visualizations systematically and I hope to set a higher a standard to redesign some of my previous work and make it use in my capstone project and future work.
 
-# Portfolios
+# Data Visualization Portfolios
 ## [You can review data visulization portfolios here:](/dataviz2.md)
+## [Assignment 2: HIV/AIDS prevention](/dataviz3.md)
 + I appreciate any feedbacks and comments to improve my Github portfolios, please send me your feedback via linkedIn or my mailbox.
 
 ## Multi-media Design
