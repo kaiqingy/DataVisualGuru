@@ -2,15 +2,15 @@
 ## Here is my first attempt of solution
 According to my assessments, I think there are three aspects for line charts to improve:
 - Intuitivity:
-..Use legends of contrast color to categorize different age groups 
-..Add message titles and notes to impress readers with limited epidemic knowledge
+..Use legends of contrast color to categorize different age groups...
+..Add message titles and notes to impress readers with limited epidemic knowledge...
 
 - Perceptibility:
-..I would differentiate the older adults with the teenage HIV/AIDS incidence rates.
-..Highlight the focus groups (older adults)and add trend line of all population rates.
+..I would differentiate the older adults with the teenage HIV/AIDS incidence rates...
+..Highlight the focus groups (older adults)and add trend line of all population rates..
 
 - Engagement:
-..Just for experiemental phases but I would make animation on my plot so that it can move across time.
+..Just for experiemental phases but I would make animation on my plot so that it can move across time...
 ![First draft of line graph](Sketch1.JPG)
 
 ## Here is my second attempt of solution
