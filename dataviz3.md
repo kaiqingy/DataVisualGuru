@@ -11,7 +11,7 @@ According to my assessments, I think there are three aspects for line charts to 
 
 - Engagement:
 ..Just for experiemental phases but I would make animation on my plot so that it can move across time...
-![First draft of line graph](Sketch1.jpeg)
+![First draft of line graph](1stSketch.jpeg)
 
 ## Here is my second attempt of solution
 After the first round feedbacks from my friends, I decide to make some necessary changes to my line charts:
@@ -19,7 +19,7 @@ After the first round feedbacks from my friends, I decide to make some necessary
 - I change the verticle solid gridlines into dashed horizontal gridlines.
 - I add a toolip to demonstrate the detailed statistics of each year by different age group.
 - Highlighted the older adults group and use red and green to categorize them.
-![Second draft of line graph](Sketch2.jpeg)
+![Second draft of line graph](2ndSketch.jpeg)
 
 
 # Test the solution Phase
