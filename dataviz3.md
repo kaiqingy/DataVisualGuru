@@ -74,6 +74,6 @@ Versus original version:
 
 [Death rates of HIV/AIDS by specific age groups — China, 2007–2018.](CPCC.jpg)
 
-
+[Go back to main page](/kaiqingy_repository.md)
 
 
