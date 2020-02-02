@@ -11,7 +11,7 @@ According to my assessments, I think there are three aspects for line charts to 
 
 - Engagement:
 ..Just for experiemental phases but I would make animation on my plot so that it can move across time...
-![First draft of line graph](1stSketch.jpeg)
+![First draft of line graph](1stSkech.jpeg)
 
 ## Here is my second attempt of solution
 After the first round feedbacks from my friends, I decide to make some necessary changes to my line charts:
