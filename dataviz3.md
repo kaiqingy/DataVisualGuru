@@ -19,7 +19,7 @@ After the first round feedbacks from my friends, I decide to make some necessary
 - I change the verticle solid gridlines into dashed horizontal gridlines.
 - I add a toolip to demonstrate the detailed statistics of each year by different age group.
 - Highlighted the older adults group and use red and green to categorize them.
-![Second draft of line graph](sketch2.jpeg)
+![Second draft of line graph](Sketch2.jpeg)
 
 
 # Test the solution Phase
