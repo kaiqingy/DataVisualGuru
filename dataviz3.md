@@ -2,15 +2,15 @@
 ## Here is my first attempt of solution
 According to my assessments, I think there are three aspects for line charts to improve:
 - Intuitivity:
-..Use legends of contrast color to categorize different age groups...
-..Add message titles and notes to impress readers with limited epidemic knowledge...
+Use legends of contrast color to categorize different age groups.
+Add message titles and notes to impress readers with limited epidemic knowledge.
 
 - Perceptibility:
-..I would differentiate the older adults with the teenage HIV/AIDS incidence rates...
-..Highlight the focus groups (older adults)and add trend line of all population rates..
+I would differentiate the older adults with the teenage HIV/AIDS incidence rates.
+Highlight the focus groups (older adults)and add trend line of all population rates.
 
 - Engagement:
-..Just for experiemental phases but I would make animation on my plot so that it can move across time...
+Just for experiemental phases but I would make animation on my plot so that it can move across time.
 ![First draft of line graph](1stSkech.jpeg)
 
 ## Here is my second attempt of solution
@@ -34,13 +34,13 @@ I conducted two rounds of interviews from three reliable friends: Jimmy, Andie a
 - Layout:
 > It's better to use curve line rather than regression plot.(Andie)
 > The x and y axis is not necessray but the gridlines should be added so people can compare the death rates across years.(Yang)
-> Maybe change the color because they are a bit cheerful...The intended audience are patients and researchers.(Jimmy)
+> Maybe change the color because they are a bit cheerful.The intended audience are patients and researchers.(Jimmy)
 
 ## Feedback from second attempt
 - Context: 
 > Why not change titles into “older generation has higher HIV/AIDS incidence death risks”?  (Jimmy)
 > It's easier to understand your illustration than last time from the legends. (Andie)
-> I understand this is trend analysis, but where is your x-axis label? (Yang)
+> What does overall population rates mean? Shouldn't be different from other lines? (Yang)
            
 - Layout:
 > Put the explanation of death rates in the notes below the charts (Andie)
@@ -48,7 +48,7 @@ I conducted two rounds of interviews from three reliable friends: Jimmy, Andie a
 > I found it confusing about the "all population line" Is that a trendline or an indicator, I think they should be different from other line type. (Yang)
 
 # Recreated data visualization Phase
-When I downloaded the raw dataset from the Global Health Data Exchange Database (http://ghdx.healthdata.org/gbd-results-tool) I found that my critique visualization only extracts partial data, for example, they have comprehensive datasets form 1991 to 2017, and by country and gender. But my selected visualization only presents it in a 12-year span. They have other indicators such as incidence cause, location and measure. I decide to choose the death rate by different age group as my recreation. 
++ When I downloaded the raw dataset from the Global Health Data Exchange Database (http://ghdx.healthdata.org/gbd-results-tool) I found that my critique visualization only extracts partial data, for example, they have comprehensive datasets form 1991 to 2017, and by country and gender. But my selected visualization only presents it in a 12-year span. They have other indicators such as incidence cause, location and measure. I decide to choose the death rate by different age group as my recreation. 
 
 ## Process of resdesigning
 + I read the article of HIV/AIDS incidence trend in China and realize the importance of stengthening importance of HIV/AIDS prevention and treatment of older adults. Older adults are often less educated and have not been the target populations for long-term HIV/AIDS control and prevention efforts in China. The results were consistent with other studies about the higher risk of HIV/AIDS among older adults at the national, provincial, and local levels in China. So I decide to deliver the message in my recreation of the line graph and highlight the targe population incidence death rate.
@@ -61,7 +61,7 @@ When I downloaded the raw dataset from the Global Health Data Exchange Database 
 + When I wireframe my solution. [Visualizing Health Wizard](http://www.vizhealth.org/wizard/) give me many hints and guidance of my communication needs, I figure out my primary goal is to increase the awareness of a risk but not necessrily change people's concern. For the level of understanding I will provide detailed number, then I found a straightforward multiple line graph showing the risk levels over time. It uses color cues to focus attention on the high-risk problem, but it also fairly sibtle point icons to distinguish which risk respond to which diesease. I will apply the similar strategy to add point icons in my curved line graphs and use bright colors to highlight the older adults risks, green to low risk population such as children and teenagers.
 
 ## A Future Improvement
-My friends' feedbacks are really helpful in terms of overall layout design and color choice. They also provides me some further improvement such as adding animation in my graph like [Gapminder](https://www.gapminder.org/tools/#$chart-type=linechart)did. I think it is a great idea to present and I can use different groups to show the time lines. Unfortunately I was not able to share publically because I fail to embed my code in Github, so I found a demo that illustrate my future steps: those lines represent different age groups, the animation will display the changes of incidence death rates.
++ My friends' feedbacks are really helpful in terms of overall layout design and color choice. They also provides me some further improvement such as adding animation in my graph like [Gapminder](https://www.gapminder.org/tools/#$chart-type=linechart)did. I think it is a great idea to present and I can use different groups to show the time lines. Unfortunately I was not able to share publically because I fail to embed my code in Github, so I found a demo that illustrate my future steps: those lines represent different age groups, the animation will display the changes of incidence death rates.
 
 <iframe src="//www.gapminder.org/tools/?embedded=true#$chart-type=linechart" style="width: 100%; height: 500px; margin: 0 0 0 0; border: 1px solid grey;" allowfullscreen></iframe>
 
