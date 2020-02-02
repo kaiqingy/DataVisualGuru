@@ -1,5 +1,5 @@
 #Step three: wireframe a solution
-##Step four: Test the solution
+#Step four: Test the solution
 -
 -
 + Can you tell me what you think this is?
@@ -13,4 +13,4 @@
 + Is there anything you would change or do differently?
 -
 
-##Step five: Build your solution
+#Step five: Build your solution
