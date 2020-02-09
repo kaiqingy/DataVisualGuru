@@ -1,5 +1,5 @@
 # Project Outline
-Road traffic injuries are now the leading cause of death for children, so I am interested in mapping global annual road traffic death statistics to discover the regional pattern with income level. Whether wealthier countries higher death rates? Or vice versa?
+I am interested in mapping global annual road traffic death statistics to discover the regional pattern with income level. Whether wealthier countries higher death rates? Or vice versa?
 
 ## Project Structure
 + Middle crisis: the global burden of road traffic deaths
@@ -12,26 +12,24 @@ Road traffic injuries are now the leading cause of death for children, so I am i
   Methodologies discussion and data collection
 + Denouncement
   lingering questions to be resolved
-  
-  (story arc wating to be embede)
+
+## Story Arc
+  Further details of users stories please see the sory arc chatbox.
+  ![Story Arc sketched here](Story Arc.jpeg)
   
 ## Call to reaction
-As a reader, I want more control over my own data so that I can protect myself.  I can do this by turning offlocation-based services and contacting my state representative. 
+As a reader, I want to understand the reasons of motorization of transport so that I can take care of myself and other people around me. I can reduce the motorization rate by refusing drunk driving, adolescent driving and slowing speed.
 
 ## User stories
+I expect when audience first see the message title: Richer countries have lower traffic death rates they would question the findings themselves. The best scenario is without any bias when they observe the yearly death rate trend line is flat, which invites audience to discover the stories themselves: the death rate is stable but the population rise these years, what has  happened? That's where users' interest climb up while I split up the yearly trend and expand investigation by different income level, regions and death user type. It will reveal more interesting stories and audience appetit reach to the climax: Then I will reveal the rationale behind that and summarize some interesting and general rules. Furthermore, I will take some outlier countries for further illustration. After the most exciting and informative part, the visualization should take a break and mythodologies and limitation should be covered here to deepen the audience's understanding to the dataset. I would assume there's a huge drop in concentration but we will embrace the wrap up soon -> Call for attention: Negative correlation and some useful tips to reduce traffic injuries. Other expected scenarios could happen if audience don't find the conclusive speech impressive or insightfu. But the ups and downs are necessary to describe the feedback between users and presenters. In the end the curve graph as illustrated in Arc story above is an expected user stories graph.
 
-
-
-
-
-The outline of your final project should serve as the building blocks for the rest of your presentation.  You've been introduced to Shorthand (Links to an external site.), one option you have at your disposal for creating your final project deliverable.  Shorthand also has a handy template you can reference for creating an outline of your projectPreview the document.  Your outline should be something that you can later use to help fill in some of the details around your project.  
-
-At a minimum, you should include the following: 
-
-A high-level summary of your project.  This should be a sentence or two that describes what you're interested in showing with your final project.
-A project structure that outlines the major elements of your story.  Your Good Charts text talks about story structure in Chapter 8 - you should describe the story arc that you hope to achieve.  Talk about the anticipated call to action and outline your user stories. 
 # Initial Sketches
-We've explored how sketching can be a great way to help solidify your ideas into design choices, and for your proposal you'll be creating sketches that outline your initial thoughts for your final project.  You may choose to present your sketches and integrate them into Part I of your final project in whatever fashion you feel makes the most sense - but they should be clear enough to be understandable to someone that has little to no contextual background for your project.  Your sketches should mimic aspects of your outline, and build on the resounding message you want to make clear through your project.  Build in elements of your anticipated story structure for your project.  Your sketches themselves do not have to be visually correct / accurate and you may use whatever method makes the most sense to you (hand-drawn, digital, etc.). 
+
+![Intial sketches here](Initial Sketch.jpeg)
+
+
+We've explored how sketching can be a great way to help solidify your ideas into design choices, and for your proposal you'll be creating sketches that outline your initial thoughts for your final project.  You may choose to present your sketches and integrate them into Part I of your final project in whatever fashion you feel makes the most sense - but they should be clear enough to be understandable to someone that has little to no contextual background for your project.  Your sketches should mimic aspects of your outline, and build on the resounding message you want to make clear through your project.  Build in elements of your anticipated story structure for your project.  Your sketches themselves do not have to be visually correct / accurate and you may use whatever method makes the most sense to you (hand-drawn, digital, etc). 
+
 # Data Source
 + the data source I found in world bank World Development Indicators. https://databank.worldbank.org/source/world-development-indicators/preview/on#advancedDownloadOptions I selected the following indicators in my dataset.
  
