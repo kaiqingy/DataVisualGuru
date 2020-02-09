@@ -50,7 +50,7 @@ For the lightning summary block, I will breifly talk about how do I build my sto
 
 For the final project, I will still consider using Shorthand platform to present my idea, but this time I will spend more time on illustration of exploring the data, interesting findings, rationale behing the visualization and takeaways from the analysis and future questions. At the same time I will document my data quality issues, initial sketch, peer evaluation, visualization process and interesting/doubtful findings on my Github repostory as a blog for future reference.
 
-
+[Go back to main page](/kaiqingy_repository.md)
 
 
 
