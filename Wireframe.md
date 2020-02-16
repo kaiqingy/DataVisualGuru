@@ -17,8 +17,14 @@ The message title in recommendation slide(page 8) should be "recommendation to i
 # User research protocol
 In the first round of interview, I reached out to 6 students who are from different academic background(business/art management/data analystics/public policy/information systems). I listed my questions in [google form](https://docs.google.com/forms/d/e/1FAIpQLSchcYh5TmSVac6K1LurUegEFajmUXqztYK2rvhSyTf4ZAa-UQ/viewform?usp=pp_url) and created a review link of my wireframe, I waited for 24 hours to collect their responses. The questionaire involves three short answers and five long paragraohs. I translated some of the scripts first, then summarize key messages in a table.
 
+| Syntax | Description |
+| ----------- | ----------- |
+| Header | What is the aim of the story? |
+| Paragraph | To make the readers aware of road quality in different regions. |
+
+
 1. What is the aim of the story?
-> To make the readers aware of road quality in different regions
+> To make the readers aware of road quality in different regions.
 > Discover the inequality of global road safe and give recommendations to improve road safety.
 > *For graduation :p*
 > Showing the differences across countries and time of road traffic safety
