@@ -15,12 +15,17 @@ In the background slide(page 3), the downward errows are representing the SUDG R
 The message title in recommendation slide(page 8) should be "recommendation to improve th inequality of global road safety issue." The words are filtered somehow.
 
 # User research protocol
-In the first round of interview, I reached out to 6 students who are from different academic background(business/art management/data analystics/public policy/information systems). I listed my questions in [google form](https://docs.google.com/forms/d/e/1FAIpQLSchcYh5TmSVac6K1LurUegEFajmUXqztYK2rvhSyTf4ZAa-UQ/viewform?usp=pp_url) and created a review link of my wireframe, I waited for 24 hours to collect their responses. The questionaire involves three short answers and five long paragraohs. I translated some of the scripts first, then summarize key messages in a table.
+In the first round of interview, I reached out to 5 students who are from different academic background(business/art management/data analystics/public policy/information systems). I listed my questions in [google form](https://docs.google.com/forms/d/e/1FAIpQLSchcYh5TmSVac6K1LurUegEFajmUXqztYK2rvhSyTf4ZAa-UQ/viewform?usp=pp_url) and created a review link of my wireframe, I waited for 24 hours to collect their responses. The questionaire involves three short answers and five long paragraohs. I translated some of the scripts first, then summarize key messages in a table.
 
-| Syntax | Description |
+| Goal| Description |
 | ----------- | ----------- |
-| Header | What is the aim of the story? |
-| Paragraph | To make the readers aware of road quality in different regions. |
+|User | 1.What is the aim of the story? |
+| A | To make the readers aware of road quality in different regions. |
+| B | Discover the inequality of global road safe and give recommendations to improve road safety.|
+| C | For graduation. |
+| D | Showing the differences across countries and time of road traffic safety |
+| E | Inequality in road safety across regions and income groups|
+
 
 
 1. What is the aim of the story?
@@ -67,18 +72,10 @@ love the neat layout, pretty cute font but not appropriate for such serious topi
 
 7. What're your recommendations to improve? (Please list the page)
 > Addition of color to initial graphs (page 2-3 I guess)
-> + The author should include some colors in the graphs, so it will be more appealing.
-  + The author should replace the unknown symbols with words/graphs. 
-  + The author should interpret the graphs a little besides the graphs. 
-  + The author should fill the graphs with real data. 
-  + The author should label the graphs.
-> + "slide 3. ""Progress and SDG Goal Gap "": what is SDG? 我推测这个slide是用来支撑上一张表达问题严重性的，slide2其实很空，不如合为一张。分开的话有些模糊，一开始以为是要展示机车拥有量和事故发生率存在正相关(I assume this slide used to support the severity o the problem, bu actually it was very vague, I suggest combining them into one slide. I thought you're presenting the positiv association between vehicle number and accidents rates.)
-  + slide4.左边展示的是income右边是region，但是到了后面两张slide5是region，slide6是income，建议顺序调换过来保持一致. (I suggest flipping the slide #5 and #6 to ensure the uniform sequence.)
-  + slide8.真的需要这一张吗？对于现象的描述是不足以支撑这些建议的. (Do we really need those recommendations? they are not persuasive enough to support your recommendation)
+> The author should include some colors in the graphs, so it will be more appealing.The author should replace the unknown symbols with words/graphs. The author should interpret the graphs a little besides the graphs. The author should fill the graphs with real data. The author should label the graphs.
+> "slide 3. ""Progress and SDG Goal Gap "": what is SDG? 我推测这个slide是用来支撑上一张表达问题严重性的，slide2其实很空，不如合为一张。分开的话有些模糊，一开始以为是要展示机车拥有量和事故发生率存在正相关(I assume this slide used to support the severity o the problem, bu actually it was very vague, I suggest combining them into one slide. I thought you're presenting the positiv association between vehicle number and accidents rates.) slide4.左边展示的是income右边是region，但是到了后面两张slide5是region，slide6是income，建议顺序调换过来保持一致. (I suggest flipping the slide #5 and #6 to ensure the uniform sequence.)slide8.真的需要这一张吗？对于现象的描述是不足以支撑这些建议的. (Do we really need those recommendations? they are not persuasive enough to support your recommendation)
 > Just the map. Maybe it could go after Analysis 1
-> 1.Not sure what the Progress in slides 3-6 mean. Is it improvement or the current status? Progress gives positive notation while the visuals communicate negative. 
-2. Slide 7 could improved. Not sure how 3 the visual is apt for showing 3 country's status.
-3. In slide 3, it doesnt differentiate which line belongs to SDG goal and progress.
+> 1.Not sure what the Progress in slides 3-6 mean. Is it improvement or the current status? Progress gives positive notation while the visuals communicate negative.2. Slide 7 could improved. Not sure how 3 the visual is apt for showing 3 country's status.3. In slide 3, it doesnt differentiate which line belongs to SDG goal and progress.
 4. Should legends be included for each graphs?"
 
 
