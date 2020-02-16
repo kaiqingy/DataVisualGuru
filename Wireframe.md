@@ -1,6 +1,6 @@
 # Wirefames for user feedback
 
-![Title Slide](Title Silide.jpeg)
+![Title Slide](Title Slide.jpeg)
 ![Background1](Background 1.jpeg)
 ![Background2](Background 2.jpeg)
 ![Analysis1](Analysis 1.jpeg)
