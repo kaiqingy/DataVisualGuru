@@ -17,23 +17,18 @@ The message title in recommendation slide(page 8) should be "recommendation to i
 # User research protocol
 In the first round of interview, I reached out to 5 students who are from different academic background(business/art management/data analystics/public policy/information systems). I listed my questions in [google form](https://docs.google.com/forms/d/e/1FAIpQLSchcYh5TmSVac6K1LurUegEFajmUXqztYK2rvhSyTf4ZAa-UQ/viewform?usp=pp_url) and created a review link of my wireframe, I waited for 24 hours to collect their responses. The questionaire involves three short answers and five long paragraohs. I translated some of the scripts first, then summarize key messages in a table.
 
-| Goal| Description |
+## Takeaway#1: It seems that readers are very clear about the purpose of presenting the story.
+| Goal| 1.What is the aim of the story?|
 | ----------- | ----------- |
-|User | 1.What is the aim of the story? |
 | A | To make the readers aware of road quality in different regions. |
 | B | Discover the inequality of global road safe and give recommendations to improve road safety.|
-| C | For graduation. |
+| C | *For graduation:P* |
 | D | Showing the differences across countries and time of road traffic safety |
 | E | Inequality in road safety across regions and income groups|
+## Takeaway#1: It seems that readers are very clear about the purpose of presenting the story.
 
 
 
-1. What is the aim of the story?
-> To make the readers aware of road quality in different regions.
-> Discover the inequality of global road safe and give recommendations to improve road safety.
-> *For graduation :p*
-> Showing the differences across countries and time of road traffic safety
-> Inequality in road safety across regions and income groups
 
 2.Can you describe to me what the storyline is telling you?
 > It tells me which areas are better, the scatter plot describes the quality of roads, there is a trends graph showing the timeline etc. which is well made.
