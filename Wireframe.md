@@ -60,7 +60,7 @@ In the first round of interview, I reached out to 5 students who are from differ
 | B | The layout is good, but there are many unknown symbol in the last page and in 5/6/7 pages. The author should remove them with something meaningful and useful.|
 | C | Very good!|
 | D | love the neat layout, pretty cute font but not appropriate for such serious topic  |
-| E | It looks good. The text is minimal|
+| E | It looks good. The text is minimal |
 
 ## Takeaway Six: Message titles should be more informative, previous exploratory analysis are not persuasive enough to make recommendations. 
 | Respondent| 6. Do you think the storyline is persuasive enough?|
@@ -78,8 +78,7 @@ In the first round of interview, I reached out to 5 students who are from differ
 | B | The author should include some colors in the graphs, so it will be more appealing.The author should replace the unknown symbols with words/graphs. The author should interpret the graphs a little besides the graphs. The author should fill the graphs with real data. The author should label the graphs.|
 | C | "slide 3. ""Progress and SDG Goal Gap "": what is SDG? 我推测这个slide是用来支撑上一张表达问题严重性的，slide2其实很空，不如合为一张。分开的话有些模糊，一开始以为是要展示机车拥有量和事故发生率存在正相关(I assume this slide used to support the severity o the problem, bu actually it was very vague, I suggest combining them into one slide. I thought you're presenting the positiv association between vehicle number and accidents rates.) slide4.左边展示的是income右边是region，但是到了后面两张slide5是region，slide6是income，建议顺序调换过来保持一致. (I suggest flipping the slide #5 and #6 to ensure the uniform sequence.)slide8.真的需要这一张吗？对于现象的描述是不足以支撑这些建议的. (Do we really need those recommendations? they are not persuasive enough to support your recommendation)|
 | D | Just the map. Maybe it could go after Analysis 1|
-| E | 1.Not sure what the Progress in slides 3-6 mean. Is it improvement or the current status? Progress gives positive notation while the visuals communicate negative.2. Slide 7 could improved. Not sure how 3 the visual is apt for showing 3 country's status.3. In slide 3, it doesnt differentiate which line belongs to SDG goal and progress.
-4. Should legends be included for each graphs?"|
+| E | 1.Not sure what the Progress in slides 3-6 mean. Is it improvement or the current status? Progress gives positive notation while the visuals communicate negative.2. Slide 7 could improved. Not sure how 3 the visual is apt for showing 3 country's status.3. In slide 3, it doesnt differentiate which line belongs to SDG goal and progress. 4. Should legends be included for each graphs?"|
 
 ## Takeaway Eight: Consider mappin the top 10 reasons fo traffic death in the world and map road conditions would be useful to comprehend the topic in depth. 
 | Respondent| 8. Is there any additional information you would like to know?|
