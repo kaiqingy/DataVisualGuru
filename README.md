@@ -14,8 +14,9 @@ Github is new world to me, and I found it magical. It's a great platform to disp
 # Data Visualization Portfolios
 ## [Assignment 1: General Government Debt](/dataviz2.md)
 ## [Assignment 2: HIV/AIDS prevention](/dataviz3.md)
-## [Final Project: Discover traffic death pattern and income level](/final_project_KaiqingYang.md)
-## [Wireframe Phase](/Wireframe.md)
+## [Final Project Phase I: Project Proposal](/final_project_KaiqingYang.md)
+## [Final Project Phase II: Wireframe Phase for User Research](/Wireframe.md)
+
 + I appreciate any feedbacks and comments to improve my Github portfolios, please send me your feedback via linkedIn or my mailbox.
 
 ## Multi-media Design
