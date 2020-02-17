@@ -89,4 +89,11 @@ In the first round of interview, I reached out to 5 students who are from differ
 | D | Not that I can think of now|
 | E | No|
 
+## Summary of the reveiw feedbacks
++ Aim:  Most readers understand highlighting the discrepencies in road safety issue betwen low,middle and high-income countries. Specifically, there appears to be a heterogeneous development between different groups of countries regarding road safety issues. 
++ Background: People found it confusing about "SDG goal" and they would love to know what the current SDG goa is and how the actual figures realte to this goal. Also, it might be good to add a trendline in the graph to visualize the progress if there's any. There's copy and paste error on the tracker that is misleading. If death rate decreases with GNI per capita, it's might be a good idea to add trendlines to support the message of the graph.
++ Summary: Move slide 7 before slide 4 might be a good idea if I want to show the results of the study first.
++ Recommendation: progress is not uniform, but what does it imply to policy makers if they really want to make changes. Incorporating a specific action would make the storyline more convincing.
+
 # Revised wireframes
+
