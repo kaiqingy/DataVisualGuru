@@ -96,4 +96,7 @@ In the first round of interview, I reached out to 5 students who are from differ
 + Recommendation: progress is not uniform, but what does it imply to policy makers if they really want to make changes. Incorporating a specific action would make the storyline more convincing.
 
 # Revised wireframes
-
+![Title Slide](TitleSlide2.jpeg)
+![Background](Background2.jpeg)
+![Analysis](Analysis2.jpeg)
+![Takeaway](Takeaway.jpeg)
