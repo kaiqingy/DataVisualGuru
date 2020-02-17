@@ -99,4 +99,4 @@ In the first round of interview, I reached out to 5 students who are from differ
 ![Analysis](Analysis2.jpeg)
 ![Takeaway](Takeaway.jpeg)
 
-[Go back to main page](/kaiqingy_repository.md)
+[Go back to main page](/README.md)
