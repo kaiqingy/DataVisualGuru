@@ -1,6 +1,4 @@
 # Wirefames for user feedback
-Your storyboards should be a visual walk-through of the primary elements of your outline, tying in your sketches where appropriate to illustrate how you intend to lead the reader through your experience.  These can either be hand-drawn or can be created digitally using Balsamiq or another tool. 
-
 I created a prototype using **Basamiq** tool and decide to guide audience by steps how to map the inequality of road death step by step. Data resources and Agenda slide were not wireframed here due to time limit, and there are limited visual options to choose to from Basamiq, so I tryied to illustrate some of the visuals by text here. The main goal of the sketch is to walk through some interesting data stories with audience and call for action to raise the road safety awareness.
 
 ![Title Slide](Title Slide.jpeg)
