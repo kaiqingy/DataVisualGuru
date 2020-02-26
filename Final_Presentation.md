@@ -40,7 +40,8 @@ https://www.economist.com/graphic-detail/2020/01/27/the-richest-countries-have-t
 ### Image Source
 https://www.cnn.com/2017/03/24/health/distracted-driving-laws-global-countries/index.html.
 http://m.xinhuanet.com/2017/04/30/c_1120877586.htm
-https://www.pinterest.com/pin/589197563723344743/https://sf.streetsblog.org/2019/11/14/protected-bike-lanes-that-work-for-everyone/https://www.pexels.com
+https://www.pinterest.com/pin/589197563723344743/https://sf.streetsblog.org/2019/11/14/protected-bike-lanes-that-work-for-everyone/
+https://www.pexels.com
 
 #### [Go back to main page](/README.md)
 
