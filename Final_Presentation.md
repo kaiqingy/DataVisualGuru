@@ -3,14 +3,15 @@
 [Map the inequality of global road safety](https://carnegiemellon.shorthandstories.com/pedestrians-safety-matters/index.html) 
 
 ## The idea behind the visuals
-+ The **project outline** can be found [here](https://kaiqingy.github.io/kaiqingy_repository/Proposal.html), I made some necessary changes to the original outline because I realize the audience think my data analysis is not sufficient enough to support my recommendation, so the reivised **project goal** was to summarize the findings and call for more people focus on the risky areas or behaviors, and deliver their demands to the policy makers rather than give recommendations on my own. The **project structure** can be comprised of four parts: 
+The **project outline** can be found [here](https://kaiqingy.github.io/kaiqingy_repository/Proposal.html), I made some necessary changes to the original outline because I realize the audience think my data analysis is not sufficient enough to support my recommendation, so the reivised **project goal** was to summarize the findings and call for more people focus on the risky areas or behaviors, and deliver their demands to the policy makers rather than give recommendations on my own. The **project structure** can be comprised of four parts: 
 + opening speech(big numbers)
 + inequality across region, income levels and road user type
 + analyze the high death rates in low-/middle- income countries
 + map the regulation enforcement level in the risky factors
 + summarize findings
 + call for action. 
-Because the dataset include each country's regulation performence, so mapping the engagement level on a global scale would be a great idea. As for the exploratary analysis, I have some assumptions about the relationship between death rate and income category, so I tried different methods, like scatter plot, group donouts and bar plots to describe the interesting phenomenon.
+
++ Because the dataset include each country's regulation performence, so mapping the engagement level on a global scale would be a great idea. As for the exploratary analysis, I have some assumptions about the relationship between death rate and income category, so I tried different methods, like scatter plot, group donouts and bar plots to describe the interesting phenomenon.
 
 ## Data Source
 + The data source is adpated from the World Health Organization Transportation Database, we can access the datasets at [here](https://kaiqingy.github.io/kaiqingy_repository/Proposal.html). I use the Table A2 Road Traffic Deaths, mobile phone laws, speed law and helmet tables to create my visuals. The datasets has cleaned pretty well and it categorize the indicators by country and assign them with different level, but I think it will be helpful to add more regional characteristics. So I add another column to label each country with five regions: Asia & Pacific, Arab States & Middle East, Europe, North America, Latin America.
