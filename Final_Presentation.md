@@ -1,4 +1,4 @@
-# Part III: Link to the Final Project Shorthand
+# Part III: Behind the Scenes
 ## Final Data Visualization 
 [Map the inequality of global road safety](https://carnegiemellon.shorthandstories.com/pedestrians-safety-matters/index.html) 
 
