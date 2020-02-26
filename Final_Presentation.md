@@ -30,9 +30,6 @@ The intended audience for the road safety issue should be people who are concern
 + Peer review is very necessary before finalizing visuals. Everyone has unique aesthetics or design ideas, your intended call for action might not sound reasonable to other people who are not familiar with this topic or not from your expertise. Some of my friends always give me many useful feedbacks on my visual design, or ideas on how to illustrate the ideas smoothly or directly. 
 + Call for action is hard but meaningful. I was struggled at the beginning because my exploratory analysis can not lead to actionable recommendations to improve the road safety. There's so much to do... But I could not cover the wide range within such a short time. I thought my "superficial" analysis will not lead to any conclusion. Until a mentor from GCC suggests me to use one sentence to summarize the takeaway, then I realize I want to increase public awareness about road about risky behaviors. That's indeed meaningful call for action. So I switch for my focus from my recommendation to useful findings and promote more public awareness campaign. It seems to be resonable and sufficient to support my previous background analysis.
 
-
-https://kaiqingy.github.io/kaiqingy_repository/Wireframe.html
-
 ## References
 ### Text Source 
 Nivard, Jacqueline NivardJacqueline. “Chinese Style of Crossing the Road.” URBACHINA. Accessed February 26, 2020. https://urbachina.hypotheses.org/5217.Ani. 
@@ -45,7 +42,7 @@ https://www.cnn.com/2017/03/24/health/distracted-driving-laws-global-countries/i
 http://m.xinhuanet.com/2017/04/30/c_1120877586.htm
 https://www.pinterest.com/pin/589197563723344743/https://sf.streetsblog.org/2019/11/14/protected-bike-lanes-that-work-for-everyone/https://www.pexels.com
 
-## [Go back to main page](/README.md)
+#### [Go back to main page](/README.md)
 
 
 
