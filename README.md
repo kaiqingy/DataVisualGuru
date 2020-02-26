@@ -16,6 +16,7 @@ Github is new world to me, and I found it magical. It's a great platform to disp
 ## [Assignment 2: HIV/AIDS prevention](/dataviz3.md)
 ## [Final Project Phase I: Project Proposal](/Proposal.md)
 ## [Final Project Phase II: Wireframe Phase for User Research](/Wireframe.md)
+## [Final Project Phase III: Behind the Scenes](/Final_Presentation.md)
 
 + I appreciate any feedbacks and comments to improve my Github portfolios, please send me your feedback via linkedIn or my mailbox.
 
