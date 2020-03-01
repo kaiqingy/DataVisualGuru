@@ -48,7 +48,7 @@ Figure 1, 2, 3 and 4 is a neutral start for background findings, we can tell the
 
 + For the final project, I will still consider using Shorthand platform to present my idea, but this time I will spend more time on illustration of exploring the data, interesting findings, rationale behing the visualization and takeaways from the analysis and future questions. At the same time I will document my data quality issues, initial sketch, peer evaluation, visualization process and interesting/doubtful findings on my Github repostory as a blog for future reference.
 
-[Go back to main page](/kaiqingy_repository.md)
+[Go back to main page](/README.md)
 
 
 
