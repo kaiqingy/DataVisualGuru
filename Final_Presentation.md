@@ -1,8 +1,6 @@
 # Part III: Behind the Scenes
 ## Final Data Visualization 
-[Map the inequality of global road safety](https://carnegiemellon.shorthandstories.com/pedestrians-safety-matters/index.html) 
-<script src="https://embed.shorthand.com/embed_9.js"></script>
-<div data-shorthand-embed="carnegiemellon.shorthandstories.com/pedestrians-safety-matters/"><h1>Pedestrians Safety Matters</h1><p>Map global inquality on road safety</p></div>
+[Mapping the inequality of global road safety](https://carnegiemellon.shorthandstories.com/pedestrians-safety-matters/index.html) 
 
 ## The idea behind the visuals
 The **project outline** can be found [here](https://kaiqingy.github.io/kaiqingy_repository/Proposal.html), I made some necessary changes to the original outline because I realize the audience think my data analysis is not sufficient enough to support my recommendation, so the reivised **project goal** was to summarize the findings and call for more people focus on the risky areas or behaviors, and deliver their demands to the policy makers rather than give recommendations on my own. The **project structure** can be comprised of four parts: 
