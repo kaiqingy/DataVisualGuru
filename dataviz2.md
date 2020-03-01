@@ -25,5 +25,5 @@ In summary, Streamgraph wins over Beeswarmplot  for two reasons:
 + Nice capture of global trend
 
 
-[Go back to main page](/kaiqingy_repository.md)
+[Go back to main page](/README.md)
 
