@@ -77,6 +77,6 @@ Versus original version:
 + My friends' feedbacks are really helpful in terms of overall layout design and color choice. They also provides me some further improvement such as adding animation in my graph like [Gapminder](https://www.gapminder.org/tools/#$chart-type=linechart)did. I think it is a great idea to present and I can use different groups to show the time lines. Unfortunately I was not able to share publically because I fail to embed my code in Github, so I found a demo that illustrate my future steps: those lines represent different age groups, the animation will display the changes of incidence death rates.
 <iframe src="//www.gapminder.org/tools/?embedded=true#$chart-type=linechart" style="width: 100%; height: 500px; margin: 0 0 0 0; border: 1px solid grey;" allowfullscreen></iframe>
 
-[Go back to main page](/kaiqingy_repository.md)
+[Go back to main page](/README.md)
 
 
