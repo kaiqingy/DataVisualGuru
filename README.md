@@ -11,12 +11,12 @@ My name is Kaiqing (she/her/hers), I'm the second-year public policy management 
 
 Github is new world to me, and I found it magical. It's a great platform to display past work and track my progress. I used Power BI and Tableau in my previous client project but never have a chance to evaluate it except for my clients' feedback. This course offere me a brand new viewpoint to critique the data visualizations systematically and I hope to set a higher a standard to redesign some of my previous work and make it use in my capstone project and future work.
 
-# Data Visualization Portfolios
-## [Assignment 1: General Government Debt](/dataviz2.md)
-## [Assignment 2: HIV/AIDS prevention](/dataviz3.md)
-## [Final Project Phase I: Project Proposal](/Proposal.md)
-## [Final Project Phase II: Wireframe Phase for User Research](/Wireframe.md)
-## [Final Project Phase III: Behind the Scenes](/Final_Presentation.md)
+## Data Visualization Portfolios
+### [Assignment 1: General Government Debt](/dataviz2.md)
+### [Assignment 2: HIV/AIDS prevention](/dataviz3.md)
+### [Final Project Phase I: Project Proposal](/Proposal.md)
+### [Final Project Phase II: Wireframe Phase for User Research](/Wireframe.md)
+### [Final Project Phase III: Behind the Scenes](/Final_Presentation.md)
 
 + I appreciate any feedbacks and comments to improve my Github portfolios, please send me your feedback via linkedIn or my mailbox.
 
@@ -28,6 +28,8 @@ Github is new world to me, and I found it magical. It's a great platform to disp
 ## R for Analytics Projects
 ### Analyze the impact of ‘stay at home’ policy on the Hopitalization Overwelming Rate for people over 60s by selected state
 https://rpubs.com/kaiqingy/r4ds_stayathome
+
+
 
 
 
