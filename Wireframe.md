@@ -15,9 +15,11 @@ The message title in recommendation slide(page 8) should be "recommendation to i
 # User research protocol
 In the first round of interview, I reached out to 5 students who are from different academic background(business/art management/data analystics/public policy/information systems). I listed my questions in [google form](https://docs.google.com/forms/d/e/1FAIpQLSchcYh5TmSVac6K1LurUegEFajmUXqztYK2rvhSyTf4ZAa-UQ/viewform?usp=pp_url) and created a review link of my wireframe, I waited for 24 hours to collect their responses. The questionaire involves three short answers and five long paragraohs. I translated some of the scripts first, then summarize key messages in a table.
 
+|------:|:-----|---------|:------:|
+
 ## Takeaway One: It seems that readers are very clear about the purpose of presenting the story.
 | Respondent| 1.What is the aim of the story?|
-| ----------- | ----------- |
+| -----------:|: ----------- :|
 | A | To make the readers aware of road quality in different regions. |
 | B | Discover the inequality of global road safe and give recommendations to improve road safety.|
 | C | *For graduation:P* |
@@ -26,7 +28,7 @@ In the first round of interview, I reached out to 5 students who are from differ
 
 ## Takeaway Two: The graphs and message titles will inform audience with correct messages.
 | Respondent| 2.Can you describe to me what the storyline is telling you?|
-| ----------- | ----------- |
+| ----------- :|: ----------- |
 | A | The story first states the reality that road safety issue is becoming more and more important globally, then illustrates the relationship between road safety and countries' gpa index. What's more, the story points out that road traffic death situation is not the same among difference countries and their progress are not the same as well. Finally, it provides recommendations in terms of road safety issue. |
 | B |道路安全是一个全球性的问题，在地域和收入水平间存在显著差距(Road safety issue is a global convern, it has significant difference across different regions and income levels)|
 | C | It tells me which areas are better, the scatter plot describes the quality of roads, there is a trends graph showing the timeline etc. which is well made |
@@ -35,7 +37,7 @@ In the first round of interview, I reached out to 5 students who are from differ
 
 ## Takeaway Three: The content supports its title, however "Mapping" seem to be irrelevant to the topic unless you put a map to illustrate the changes of death rate by country.
 | Respondent| 3. Assuming the content is complete and accurate, does the content (visualizations/text) support its title?|
-| ----------- | ----------- |
+| ----------- :|: ----------- |
 | A | Yes.|
 | B | The content can support its title.|
 | C | it's pretty relevent.|
