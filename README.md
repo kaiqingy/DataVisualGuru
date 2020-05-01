@@ -12,28 +12,28 @@ My name is Kaiqing (she/her/hers), I'm the second-year public policy management 
 Github is new world to me, and I found it magical. It's a great platform to display past work and track my progress. I used Power BI and Tableau in my previous client project but never have a chance to evaluate it except for my clients' feedback. This course offere me a brand new viewpoint to critique the data visualizations systematically and I hope to set a higher a standard to redesign some of my previous work and make it use in my capstone project and future work.
 
 ## Data Visualization Portfolios
-[Mapping the inequality of global road safety](https://carnegiemellon.shorthandstories.com/pedestrians-safety-matters/index.html) 
+
 ### [Assignment 1: General Government Debt](/dataviz2.md)
 ### [Assignment 2: HIV/AIDS prevention](/dataviz3.md)
 ### [Final Project Phase I: Project Proposal](/Proposal.md)
 ### [Final Project Phase II: Wireframe Phase for User Research](/Wireframe.md)
 ### [Final Project Phase III: Behind the Scenes](/Final_Presentation.md)
-
+### [Mapping the inequality of global road safety](https://carnegiemellon.shorthandstories.com/pedestrians-safety-matters/index.html) 
 ## Multi-media Design
 + Adobe Photoshop
 + Adobe Illustrator
 + Adobe InDesign
 
 ## Statistical Anyalysis Projects with R
-### Analyze the impact of ‘stay at home’ policy on the Hopitalization Overwelming Rate for people over 60s by selected state
+### [Analyze the impact of ‘stay at home’ policy on the Hopitalization Overwelming Rate for people over 60s by selected state](https://rpubs.com/kaiqingy/r4ds_stayathome)
 Try to understand the leading factors impacting the increasing income gap between sex through statistical analysis. The data source was chosen from a national longitudinal survey of youth in the 1979 cohort. It records some representative variables of education attainment, race, poverty status, marital status, and ethnicity, prior job number, etc.
 https://rpubs.com/kaiqingy/r4ds_stayathome
 
-### What are the factors that influencing income gap between Men and Women
+### [What are the factors that influencing income gap between Men and Women](https://rpubs.com/kaiqingy/income_gap_factors)
 The covid-19 cases have reached over one million cases in the United States, and it is very concerning that the hospitalization begins to overwhelm for some counties where the proportion of elderly population is high and the hospitalization capacity and ICU care is limited. This analysis aims to stress the importance of early "Stay at Home" Order on relieving hospitalization saturation status and try to provide policymakers some implication on when to reopen the economy.
-https://rpubs.com/kaiqingy/income_gap_factors
 
-+ I appreciate any feedbacks and comments to improve my Github portfolios, please send me your feedback via linkedIn Message
+
+**I appreciate any feedbacks and comments to improve my Github portfolios, please send me your feedback via linkedIn Message**
 
 
 
