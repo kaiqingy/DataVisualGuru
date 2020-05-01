@@ -25,4 +25,10 @@ Github is new world to me, and I found it magical. It's a great platform to disp
 + Adobe Illustrator
 + Adobe InDesign
 
+## R for Analytics Projects
+### Analyze the impact of ‘stay at home’ policy on the Hopitalization Overwelming Rate for people over 60s by selected state
+https://rpubs.com/kaiqingy/r4ds_stayathome
+
+
+
 
