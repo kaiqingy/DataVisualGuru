@@ -1,6 +1,6 @@
 # Beforehead
 
-Hello everyone, this is my public portfolio on Github. This website aimed at telling interesting stories with data, I will publish my previous projects, assignments of with data visulization here. On live site is here:  https://kaiqingy.github.io/kaiqingy_repository/
+Hello everyone, this is my public portfolio on Github. This website aimed at telling interesting stories with data, I will publish my previous projects, assignments of with data visulization here. On live site is [here](https://kaiqingy.github.io/kaiqingy_repository/)
 
 # About me
 
@@ -12,6 +12,7 @@ My name is Kaiqing (she/her/hers), I'm the second-year public policy management 
 Github is new world to me, and I found it magical. It's a great platform to display past work and track my progress. I used Power BI and Tableau in my previous client project but never have a chance to evaluate it except for my clients' feedback. This course offere me a brand new viewpoint to critique the data visualizations systematically and I hope to set a higher a standard to redesign some of my previous work and make it use in my capstone project and future work.
 
 ## Data Visualization Portfolios
+[Mapping the inequality of global road safety](https://carnegiemellon.shorthandstories.com/pedestrians-safety-matters/index.html) 
 ### [Assignment 1: General Government Debt](/dataviz2.md)
 ### [Assignment 2: HIV/AIDS prevention](/dataviz3.md)
 ### [Final Project Phase I: Project Proposal](/Proposal.md)
