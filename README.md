@@ -27,7 +27,7 @@ Github is new world to me, and I found it magical. It's a great platform to disp
 ## Statistical Anyalysis Projects with R
 ### [Analyze the impact of ‘stay at home’ policy on the Hopitalization Overwelming Rate for people over 60s by selected state](https://rpubs.com/kaiqingy/r4ds_stayathome)
 Try to understand the leading factors impacting the increasing income gap between sex through statistical analysis. The data source was chosen from a national longitudinal survey of youth in the 1979 cohort. It records some representative variables of education attainment, race, poverty status, marital status, and ethnicity, prior job number, etc.
-https://rpubs.com/kaiqingy/r4ds_stayathome
+
 
 ### [What are the factors that influencing income gap between Men and Women](https://rpubs.com/kaiqingy/income_gap_factors)
 The covid-19 cases have reached over one million cases in the United States, and it is very concerning that the hospitalization begins to overwhelm for some counties where the proportion of elderly population is high and the hospitalization capacity and ICU care is limited. This analysis aims to stress the importance of early "Stay at Home" Order on relieving hospitalization saturation status and try to provide policymakers some implication on when to reopen the economy.
